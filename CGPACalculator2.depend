@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1723637009 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\src\calculator.cpp
+	"Calculator.h"
+	"LinkedList.h"
+
+1723636453 c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\include\calculator.h
+
+1723637748 c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\include\linkedlist.h
+
+1723637644 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1723637075 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\src\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+
+1723807438 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\src\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+
+1723807438 c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\include\linkedlist.h
+
+1723809651 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"StringLinkedList.h"
+	"Calculator.h"
+
+1723807895 c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\include\stringlinkedlist.h
+	<string>
+
+1723810137 c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\include\calculator.h
+	"LinkedList.h"
+	"StringLinkedList.h"
+
+1723807962 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\src\stringlinkedlist.cpp
+	"StringLinkedList.h"
+	<iostream>
+
+1723810361 source:c:\users\akbyk\onedrive\desktop\current project\cgpacalculator2\cgpa-calculator\src\calculator.cpp
+	"Calculator.h"
+	"LinkedList.h"
+	"StringLinkedList.h"
+	<iostream>
+
